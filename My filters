@@ -23,6 +23,10 @@ MICROSOFT ONEDRIVE
 onedrive.live.com##.bannerGleam_7ff103ac.storageUpsellBanner_7ff103ac
 onedrive.live.com##.premiumBtnContainerResponsive_28037b6b
 
+!---------PROTON DRIVE
+drive.proton.me##.interactive-pseudo.relative.px-4.py-2.rounded-full.gap-2.items-center.flex
+drive.proton.me##.empty\:hidden.items-center.flex-nowrap.flex.gap-1.ml-2.my-0.unstyled.topnav-list > div
+
 SPOTIFY
 open.spotify.com##a.l9jXCgwpKjI3XqMWYv4T:nth-of-type(4)
 open.spotify.com##.l9jXCgwpKjI3XqMWYv4T.e-91000-button-tertiary--condensed.e-91000-overflow-wrap-anywhere.encore-text-body-medium-bold.giZtyl.Button-sc-1dqy6lx-0
@@ -116,6 +120,11 @@ SUBSTACK
 1MG
 www.1mg.com##[href^="https://deep-route.1mg.com/"]
 
+!--------MERRIAM WEBSTER
+www.merriam-webster.com##.below-def-ad.tbgads-mid-short-slot-wrap.tbgads-slot-wrap
+www.merriam-webster.com##div.d-md-none.d-block.tbgads-mid-tall-slot-wrap.tbgads-slot-wrap
+www.merriam-webster.com##.tbgads-anchor-slot-wrap
+
 ---------------------------------------------------------INDIAN NEWS-------------------------------------------------------------------------
 THE HINDU
 www.thehindu.com###sectiondivicymi
@@ -160,6 +169,7 @@ hindi.newslaundry.com##.b5Cw7
 hindi.newslaundry.com##.vkm2D
 www.newslaundry.com##.story-element-jsembed.story-element
 www.newslaundry.com##.lZ4IB
+||accounts.google.com/gsi/iframe/select$subdocument
 
 THE NEWS MINUTE
 www.thenewsminute.com##.text-story-m_share__FrlMt
@@ -233,6 +243,7 @@ www.hindustantimes.com##.nextStoryItem.jsx-c408190476e82587
 www.hindustantimes.com##.prevStoryItem.jsx-c408190476e82587
 www.hindustantimes.com##.nextStoryItem
 www.hindustantimes.com##.prevStoryItem
+www.hindustantimes.com###ECHO_HT_POPUP
 
 TIMES OF INDIA
 timesofindia.indiatimes.com##.A7zom
@@ -242,6 +253,7 @@ timesofindia.indiatimes.com##.YSIbF.F9Ip_
 timesofindia.indiatimes.com##.YWcz3
 timesofindia.indiatimes.com##.NNiKY
 timesofindia.indiatimes.com##.IvoQY
+timesofindia.indiatimes.com##.heilg.pN79w.sgLJV
 
 THE QUINT
 www.thequint.com##._2lTVq
@@ -250,6 +262,7 @@ www.thequint.com##._3MGlE
 !---SCROLL.IN
 scroll.in##.fixedsticky-on.hide-for-large.fixedsticky.share-bar-mobile
 scroll.in#@#.carousel-is-sticky.trending-carousel
+scroll.in##.in-article-align-left-subscription-upsell.in-article-subscription-upsell.subscription-upsell
 
 THE NEW INDIAN EXPRESS
 www.newindianexpress.com###breaking-news-container
@@ -290,6 +303,8 @@ BUSINESS STANDARD
 www.business-standard.com##[href^="https://www.google.com/preferences/source"]
 www.business-standard.com##.subscribbtn
 www.business-standard.com##.MainStory_readapp__QvG2w
+www.business-standard.com##.MainStory_smtinvNewsltr__pwlbt
+www.business-standard.com##.storynudges_NudgesBox__r98oN
 
 NDTV
 www.ndtv.com##.RdInAp_wr
@@ -348,6 +363,11 @@ www.mid-day.com###mid-daycom47160
 MAKTOOB MEDIA
 maktoobmedia.com###tdi_71
 
+!-------THE OBSERVER POST
+theobserverpost.com###main > div:nth-of-type(1)
+theobserverpost.com##.gb-element-d9aa929a
+theobserverpost.com##.gb-element-9d23110d
+
 DIGIT
 www.digit.in##.home_mobile_show.rh-container
 www.digit.in##.digit_trusted_source
@@ -365,7 +385,22 @@ www.timesnownews.com##.SocialShare_Share__zm1q_
 BHASKAR ENGLISH
 www.bhaskarenglish.in##.b06c8b9b.cf559a0e
 www.bhaskarenglish.in##.f9b352a5
+
+!------JANSATTA
+www.jansatta.com###amp-app-download-select
+www.jansatta.com##.google-pref-main-container.t-flex-col.m-flex-1.m-mt-3.items-center.flex.justify-start.article_follow_us
+www.jansatta.com##.ad-code-300
+www.jansatta.com##div.ad-bg-container
+www.jansatta.com###custom_sticky_ads
+www.jansatta.com##.floating-nav__right.floating-nav
+
+!------FIRSTPOST
+www.firstpost.com##.mweb-in.mweb.flntvdo.jsx-80898854ef227f7a
+
 ----------------------------------------------------------------------INTERNATIONAL NEWS----------------------------------------------------------
+!-------THE NEW YORK TIMES
+www.nytimes.com##.e1pjtsj62.css-c5j6tx.hasLinks
+
 THE GUARDIAN
 ||sourcepoint.theguardian.com/index.html$subdocument
 
@@ -374,6 +409,11 @@ www.politico.com##.adlib-sticky-footer
 
 HAARETZ
 www.haaretz.com##.xjwzlys.x1gdln1y.xgb5sdy.x1oyu57b.x1n6c4r2.xjbyqu9.xp78jy5.x1ey2m1c.xh8yej3.x9fjoi2.xixxii4.xl56j7k.xtijo5x.x78zum5.x12awp2b.xc26acl.fe-button-ruler
+www.haaretz.com##.xjwzlys.x1gdln1y.xgb5sdy.x1oyu57b.x1n6c4r2.xh8yej3.x1ey2m1c.x9fjoi2.xixxii4.xl56j7k.xtijo5x.x78zum5.x12awp2b.xc26acl.fe-button-ruler
+www.haaretz.com##.no-print.xn1gcf2.xe1tbmy.xmjvw0t.x1extp19.xuynr46.x2ynqgn.x1x1t0b3.xbma6s9.xh8yej3.x1p9p2es.x1ur9flw.x18lkwxx.x1i2rrn9.x1mjqqkp.x18bplam.xiqucfo.xhbfen4.x1rrzvkg.x12ds5z6.xstzfhl.x18oe1m7.x1ejq31n.x1sy0etr.xphkjlp.x10wlt62.x6ikm8r.x1n2onr6.x1gq9eym.x1irir5p.x1s3jr1d.x6ilyb4.x1j45ua1
+
+!--------FORENSIS
+counter-investigations.org###donate-button
 
 !---+927 MAGAZINE
 www.972mag.com##.sticky
@@ -435,11 +475,16 @@ CLAUDE AI
 claude.ai##.bg-neutral-30.pointer-events-auto.duration-150.transition-opacity.select-none.text-muted.sm\:font-base.font-small.text-center.pr-2\.5.pl-2.h-8.rounded-lg.gap-1\.5.items-center.inline-flex.ml-0\.5
 claude.ai##.flex-1.text-muted.items-center.min-w-0.flex
 claude.ai##.df-link-card.df-chrome-btn.px-0.w-control.aspect-square.\[\&\[data-initial-focus\]\:focus\]\:shadow-focus.focus-visible\:shadow-focus.aria-pressed\:text-accent.font-normal.text-primary.duration-fast.transition-shadow.disabled\:pointer-events-none.\[\&\:disabled\:not\(\[aria-busy\]\)\]\:opacity-disabled.text-body.font-sans.h-control.rounded.\[\&\[data-initial-focus\]\:focus\]\:outline-hidden.focus-visible\:outline-hidden.outline-none.border-0.data-\[disabled\]\:cursor-default.aria-disabled\:cursor-default.cursor-\[var\(--cds-cursor-interactive\)\].select-none.whitespace-nowrap.gap-1\.5.justify-center.items-center.shrink-0.inline-flex.isolate.relative.group\/btn.cds-reset
+claude.ai##.\@container.shadow-card-ring.text-primary.bg-surface-1.rounded-composer.px-md.text-body.font-sans.py-md.gap-xs.items-start.flex
+claude.ai##.bg-neutral-30.pointer-events-auto.duration-150.transition-opacity.select-none.text-muted.sm\:font-base.font-small.text-center.pr-2\.5.pl-2.h-control.rounded-lg.gap-1\.5.items-center.inline-flex.ml-0\.5
+claude.ai##.flex-col.flex.top-0.inset-x-0.absolute
+claude.ai##.flex-1.text-muted-as-secondary.items-center.min-w-0.flex.group\/chin-trail
 
 GROK
 grok.com##.py-2\.5.px-2.border-toggle-border.border-b.bg-background.gap-2.justify-between.items-center.flex.z-50.right-0.left-0.top-0.fixed
 grok.com##.data-\[disabled\]\:pointer-events-auto.data-\[disabled\]\:opacity-100.mt-1.bg-surface-l3.border-border-l1.border.rounded-xl.items-start.flex-col.flex.group\/mode-select-upsell.data-\[disabled\]\:hover\:bg-transparent.\[\.wd-refresh_\&\]\:data-\[highlighted\]\:bg-button-ghost-hover.\[body\:not\(\.wd-refresh\)_\&\]\:group-\[\.menu-pointer-highlight\:not\(\:hover\)\]\/dropdown-content\:focus\:bg-button-ghost-hover.\[body\:not\(\.wd-refresh\)_\&\]\:group-\[\.menu-pointer-highlight\]\/dropdown-content\:hover\:bg-button-ghost-hover.\[body\:not\(\.wd-refresh\)_\&\]\:group-\[\:not\(\.menu-pointer-highlight\)\]\/dropdown-content\:focus\:bg-button-ghost-hover.\[\.wd-refresh_\&\]\:rounded-\[10px\].\[\.wd-refresh_\&\]\:py-\[3px\].\[\.wd-refresh_\&\]\:min-h-8.aria-disabled\:cursor-not-allowed.aria-disabled\:opacity-50.outline-hidden.text-sm.py-1\.5.px-2.cursor-pointer.select-none.relative
 grok.com##.border-border.border-t.shrink-0
+grok.com##.data-\[disabled\]\:pointer-events-auto.data-\[disabled\]\:opacity-100.mt-1.bg-surface-l3.border-border-l1.border.items-start.flex-col.flex.group\/mode-select-upsell.data-\[disabled\]\:hover\:bg-transparent.data-\[highlighted\]\:bg-button-ghost-hover.leading-5.gap-1\.5.rounded-\[10px\].py-\[3px\].min-h-8.aria-disabled\:cursor-not-allowed.aria-disabled\:opacity-50.outline-hidden.text-sm.px-2.cursor-pointer.select-none.relative
 
 OPENAI/CHATGPT
 -------------------------------------------
@@ -451,6 +496,7 @@ chatgpt.com##.md\:px-\[60px\].\[view-transition-name\:var\(--vt-disclaimer\)\].t
 chatgpt.com##.-mt-4
 chatgpt.com##.group-\[\:not\(\[data-show-disclaimer\]\)\]\/scroll-root\:opacity-0.group-\[\:not\(\[data-show-disclaimer\]\)\]\/scroll-root\:duration-50.group-\[\:not\(\[data-show-disclaimer\]\)\]\/scroll-root\:pointer-events-none.duration-250.transition-opacity.bottom-\[calc\(100\%\+1\*var\(--spacing\)\)\].inset-x-0.absolute.\[view-transition-name\:var\(--vt-disclaimer\)\].text-token-text-tertiary.text-xs.text-center.pb-3.pt-2.min-h-9
 chatgpt.com##.grid.mt-auto
+chatgpt.com##.z-20.bottom-full.end-0.start-0.absolute
 
 DEEPSEEK
 chat.deepseek.com##.ds-basic-button--outlined.ds-basic-button.ds-atom-button
@@ -514,6 +560,7 @@ lumo.proton.me##.lumo-upgrade-trigger.lumo-plus-upgrade-button.upsell-addon-butt
 GEMINI NOTEBOOK
 notebooklm.google.com##.ng-star-inserted.ng-tns-c2287526256-0.mat-body-small.footer
 notebooklm.google.com##.ng-star-inserted.ng-tns-c2561536472-0.mat-body-small.footer
+notebook.google.com##.mat-body-small.disclaimer
 
 DUCKDUCKGO AI
 duck.ai##.pEpgAp_uV2lfaCYzOoNa
