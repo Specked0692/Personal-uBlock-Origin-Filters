@@ -69,6 +69,9 @@ www.xprivo.com##.pt-2.sm\:px-4.px-3.dark\:text-gray-400.text-gray-500.text-xs.te
 SWIGGY
 www.swiggy.com##._3nLOm
 
+BLINKIT
+blinkit.com##.kLGbkf.DownloadAppHeader__BannerContainer-sc-6iwe8i-0
+
 MAKEMYTRIP
 www.makemytrip.com##.AppDownloadBanner_container__zntqv
 
@@ -130,6 +133,7 @@ THE HINDU
 www.thehindu.com###sectiondivicymi
 www.thehindu.com##.col-12.col-sm-12.col-md-12.col-lg-4.col-xl-3.print-hide
 www.thehindu.com##.google-btn
+www.thehindu.com##.cg-visible
 
 BUSINESS LINE
 www.thehindubusinessline.com##.navigations-icon
@@ -363,6 +367,9 @@ www.mid-day.com###mid-daycom47160
 MAKTOOB MEDIA
 maktoobmedia.com###tdi_71
 
+ALT NEWS
+www.altnews.in##.mobile-donate-bar
+
 !-------THE OBSERVER POST
 theobserverpost.com###main > div:nth-of-type(1)
 theobserverpost.com##.gb-element-d9aa929a
@@ -512,6 +519,7 @@ gemini.google.com##.ng-star-inserted.under-input.g1-upsell-container.upgrade-con
 gemini.google.com##.mobile-controls-list.gds-sidenav-list.mdc-list.mat-mdc-list-base.mat-mdc-action-list
 gemini.google.com##.ng-star-inserted.adv-upsell.buttons-container
 gemini.google.com##.ng-star-inserted.top-bar-button
+gemini.google.com##.ng-star-inserted.mavatar-signed-in-get-app-button-container
 
 MISTRAL AI/LE CHAT
 chat.mistral.ai##.py-5.px-4.border-basic-gray-alpha-4.border-t.p-2.gap-2.flex-col.flex
@@ -564,3 +572,4 @@ notebook.google.com##.mat-body-small.disclaimer
 
 DUCKDUCKGO AI
 duck.ai##.pEpgAp_uV2lfaCYzOoNa
+duck.ai##.O5Ra8A7Sorua0Mko8MYQ
