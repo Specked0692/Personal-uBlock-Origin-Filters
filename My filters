@@ -479,6 +479,8 @@ www.perplexity.ai##.w-sidebarPinnedWidth
 www.perplexity.ai##.divide-subtlest.ring-subtlest.border-subtlest.overflow-x-auto.grid-flow-col.auto-cols-max.grid.scrollbar-none.px-pageHorizontalPadding.-mx-pageHorizontalPadding.gap-sm
 www.perplexity.ai##.divide-subtlest.ring-subtlest.border-subtlest.overflow-x-auto.grid-flow-col.auto-cols-max.grid.scrollbar-none.px-pageHorizontalPadding.-mx-pageHorizontalPadding.gap-2
 www.perplexity.ai#@#.bottom-2
+www.perplexity.ai##.md\:flex.pb-2.gap-2.justify-center.items-center.min-h-14.hidden.bottom-0.inset-x-0.absolute.pointer-events-none
+www.perplexity.ai##.m-4.p-0\.5.\[\:where\(\&\>\:not\(\[hidden\]\)\~\:not\(\[hidden\]\)\)\]\:border-soft.ring-soft.border-soft.md\:flex.empty\:hidden.gap-2.justify-center.items-center.flex-wrap.self-center.max-w-\[calc\(100\%-2rem\)\].shrink-0.hidden
 
 CLAUDE AI
 claude.ai##.bg-neutral-30.pointer-events-auto.duration-150.transition-opacity.select-none.text-muted.sm\:font-base.font-small.text-center.pr-2\.5.pl-2.h-8.rounded-lg.gap-1\.5.items-center.inline-flex.ml-0\.5
@@ -494,6 +496,8 @@ grok.com##.py-2\.5.px-2.border-toggle-border.border-b.bg-background.gap-2.justif
 grok.com##.data-\[disabled\]\:pointer-events-auto.data-\[disabled\]\:opacity-100.mt-1.bg-surface-l3.border-border-l1.border.rounded-xl.items-start.flex-col.flex.group\/mode-select-upsell.data-\[disabled\]\:hover\:bg-transparent.\[\.wd-refresh_\&\]\:data-\[highlighted\]\:bg-button-ghost-hover.\[body\:not\(\.wd-refresh\)_\&\]\:group-\[\.menu-pointer-highlight\:not\(\:hover\)\]\/dropdown-content\:focus\:bg-button-ghost-hover.\[body\:not\(\.wd-refresh\)_\&\]\:group-\[\.menu-pointer-highlight\]\/dropdown-content\:hover\:bg-button-ghost-hover.\[body\:not\(\.wd-refresh\)_\&\]\:group-\[\:not\(\.menu-pointer-highlight\)\]\/dropdown-content\:focus\:bg-button-ghost-hover.\[\.wd-refresh_\&\]\:rounded-\[10px\].\[\.wd-refresh_\&\]\:py-\[3px\].\[\.wd-refresh_\&\]\:min-h-8.aria-disabled\:cursor-not-allowed.aria-disabled\:opacity-50.outline-hidden.text-sm.py-1\.5.px-2.cursor-pointer.select-none.relative
 grok.com##.border-border.border-t.shrink-0
 grok.com##.data-\[disabled\]\:pointer-events-auto.data-\[disabled\]\:opacity-100.mt-1.bg-surface-l3.border-border-l1.border.items-start.flex-col.flex.group\/mode-select-upsell.data-\[disabled\]\:hover\:bg-transparent.data-\[highlighted\]\:bg-button-ghost-hover.leading-5.gap-1\.5.rounded-\[10px\].py-\[3px\].min-h-8.aria-disabled\:cursor-not-allowed.aria-disabled\:opacity-50.outline-hidden.text-sm.px-2.cursor-pointer.select-none.relative
+grok.com##.max-w-\[calc\(100\%-16px\)\].hover\:scale-\[1\.01\].dark.gap-4.flex.text-left.group.rounded-3xl.min-\[384px\]\:min-w-52.min-\[384px\]\:w-max.border-border-l1.cursor-pointer.border.text-fg-primary.text-xs.bg-surface-base.w-\[calc\(100\%-16px\)\].items-center.py-4.px-5.\@sm\:mb-0.\@sm\:end-2.\@sm\:bottom-2.\@sm\:fixed.mb-2.relative.upsell-small
+grok.com##.pt-1
 
 OPENAI/CHATGPT
 -------------------------------------------
@@ -541,6 +545,7 @@ copilot.com##._6d9dc20bc85e60f9.f3ae996211cce039
 copilot.com##.f1jlhsmd.f1xdg43u.___12pwcie
 copilot.com##.fg8d833.f1l25zcy.fuqjl61.fz1bw4s.f1jxijnj.fkln5zr.f11gcy0p.f1ng84yb.f1nwcc8c.f1dxfoyt.f1pxyubt.ffh67wi.f1bjia2o.f1d2448m.f8hki3x.figsok6.fd4bjan.f1i0gk12.f1v3eptx.fxoo9op.f1gm6xmp.f1nhwcv0.f1j25eq3.f232fm2.f1klyf7k.fb6swo4.fhvnf4x.f9r0db0.fuxngvv.ft1hn21.f1mwwx2u.fecsdlb.f1ukrpxl.fr80ssc.f1s2uweq.f9ql6rf.f19n0e5.f1pdflbu.f1q5o8ev.f11589ue.f1p3nwhy.f1c21dwh.___1azc6nq.fai-bebop.NGlLX2o4.r1f29ykk.fui-Button
 copilot.com##.VDFTdnAy.c0hPck12
+copilot.com##div.WHEyR3B5 > div
 
 BAIDU ERNIE AI
 ernie.baidu.com##.footer--bottomInputStyle__lrrzRTld.footer__PPSho3NC.footer__du6PsobB
