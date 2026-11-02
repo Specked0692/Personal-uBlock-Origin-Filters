@@ -493,6 +493,8 @@ claude.ai##.\@container.shadow-card-ring.text-primary.bg-surface-1.rounded-compo
 claude.ai##.bg-neutral-30.pointer-events-auto.duration-150.transition-opacity.select-none.text-muted.sm\:font-base.font-small.text-center.pr-2\.5.pl-2.h-control.rounded-lg.gap-1\.5.items-center.inline-flex.ml-0\.5
 claude.ai##.flex-col.flex.top-0.inset-x-0.absolute
 claude.ai##.flex-1.text-muted-as-secondary.items-center.min-w-0.flex.group\/chin-trail
+claude.ai##.flex-col.min-w-0.w-full.flex > .flex-col.min-w-0.w-full.flex > .h-0.relative
+claude.ai##.dock\:z-10.dock\:bottom-\[var\(--new-page-card-px\,0px\)\].dock\:sticky.dock\:w-\[calc\(100\%\+0\.5rem\)\].dock\:-mx-1.dock\:-mb-6.dock\:mt-auto.dock\:order-last.-z-10.relative > div
 
 GROK
 grok.com##.py-2\.5.px-2.border-toggle-border.border-b.bg-background.gap-2.justify-between.items-center.flex.z-50.right-0.left-0.top-0.fixed
