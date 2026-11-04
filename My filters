@@ -482,7 +482,7 @@ www.perplexity.ai#@#.bottom-2
 www.perplexity.ai##.md\:flex.pb-2.gap-2.justify-center.items-center.min-h-14.hidden.bottom-0.inset-x-0.absolute.pointer-events-none
 www.perplexity.ai##.m-4.p-0\.5.\[\:where\(\&\>\:not\(\[hidden\]\)\~\:not\(\[hidden\]\)\)\]\:border-soft.ring-soft.border-soft.md\:flex.empty\:hidden.gap-2.justify-center.items-center.flex-wrap.self-center.max-w-\[calc\(100\%-2rem\)\].shrink-0.hidden
 www.perplexity.ai##.md\:flex.gap-2.items-center.hidden.absolute.z-20.left-4.h-headerHeight.top-0
-www.perplexity.ai##.py-1.w-full.empty\:hidden
+www.perplexity.ai##.mb-1.gap-2.items-center.flex-col.w-full.flex
 
 
 CLAUDE AI
