@@ -12,6 +12,7 @@ m.youtube.com##.ytAttributedStringWhiteSpacePreWrap.chatInputViewModelChatDiscla
 
 !--------GOOGLE
 www.google.com##div.OS7YA:nth-of-type(4)
+www.google.com###tsuid_0TDsaqrrEqqTvr0PkfCw6Qg_38 > div
 
 !--------GMAIL
 mail.google.com##.s1rbBe
@@ -468,6 +469,7 @@ com-intern.org##.is-position-sticky.wp-container-2.wp-block-group-is-layout-cons
 QWEN
 chat.qwen.ai##.chat-container-statement
 chat.qwen.ai##.member-upgrade-button.qwen-chat-v2-btn-m.qwen-chat-v2-btn-plain.qwen-chat-v2-btn
+chat.qwen.ai##.member-upgrade-button.qwen-chat-v2-btn-m.qwen-chat-v2-btn-black.qwen-chat-v2-btn
 
 PERPLEXITY AI
 www.perplexity.ai##.px-2\.5.h-8.text-sm.inline-flex.whitespace-nowrap.origin-center.active\:ease-outExpo.active\:duration-150.active\:scale-\[0\.97\].cursor-pointer.rounded-lg.text-center.justify-center.font-semimedium.group\/button.relative.items-center.select-none.ease-out.duration-300.transition.outline-transparent.outline-none.focus\:outline-none.font-sans.bg-button-bg.hover\:opacity-80.text-inverse
@@ -521,6 +523,7 @@ chatgpt.com##div.no-drag.items-center.shrink-0.flex.pointer-events-auto > .selec
 chatgpt.com##.ms-2.pointer-coarse\:min-h-10.font-medium.leading-4.text-xs.py-0.px-2\.5.justify-center.shrink-0.min-h-7.not-disabled\:not-aria-disabled\:active\:opacity-80.data-\[state\=open\]\:bg-button-outline-hover.not-disabled\:not-aria-disabled\:hover\:bg-button-outline-hover.text-button-outline.bg-surface-card.border-button-outline.rounded-full.gap-1.border.flex.whitespace-nowrap.focus-visible\:ring-offset-0.focus-visible\:ring-ring.focus-visible\:ring-2.aria-disabled\:opacity-40.disabled\:opacity-40.focus\:outline-hidden.aria-disabled\:cursor-default.disabled\:cursor-default.select-none.items-center.cursor-interaction.no-drag
 chatgpt.com##div:nth-of-type(1) > div > button.scroll-mt-\[var\(--mention-list-sticky-header-height\,0px\)\].menu-row-opacity.\[contain-intrinsic-block-size\:auto_1lh\].\[content-visibility\:auto\].text-sm.p-\[var\(--suggestion-menu-item-padding\,var\(--app-menu-item-padding\,var\(--padding-row-y\)_var\(--padding-row-x\)\)\)\].rounded-\[var\(--suggestion-menu-item-radius\,var\(--radius-xl\)\)\].min-h-\[var\(--app-menu-item-height\,0px\)\].text-start.overflow-hidden.items-center.shrink-0.w-full.flex.cursor-interaction.focus\:bg-primary-ghost-hover.outline-hidden.text-default:nth-of-type(5)
 chatgpt.com##div:nth-of-type(1) > div > button.scroll-mt-\[var\(--mention-list-sticky-header-height\,0px\)\].menu-row-opacity.\[contain-intrinsic-block-size\:auto_1lh\].\[content-visibility\:auto\].text-sm.p-\[var\(--suggestion-menu-item-padding\,var\(--app-menu-item-padding\,var\(--padding-row-y\)_var\(--padding-row-x\)\)\)\].rounded-\[var\(--suggestion-menu-item-radius\,var\(--radius-xl\)\)\].min-h-\[var\(--app-menu-item-height\,0px\)\].text-start.overflow-hidden.items-center.shrink-0.w-full.flex.cursor-interaction.focus\:bg-secondary-ghost-hover.outline-hidden.text-default:nth-of-type(5)
+chatgpt.com##.mt-6
 
 DEEPSEEK
 chat.deepseek.com##.ds-basic-button--outlined.ds-basic-button.ds-atom-button
@@ -557,6 +560,7 @@ copilot.com##.f1jlhsmd.f1xdg43u.___12pwcie
 copilot.com##.fg8d833.f1l25zcy.fuqjl61.fz1bw4s.f1jxijnj.fkln5zr.f11gcy0p.f1ng84yb.f1nwcc8c.f1dxfoyt.f1pxyubt.ffh67wi.f1bjia2o.f1d2448m.f8hki3x.figsok6.fd4bjan.f1i0gk12.f1v3eptx.fxoo9op.f1gm6xmp.f1nhwcv0.f1j25eq3.f232fm2.f1klyf7k.fb6swo4.fhvnf4x.f9r0db0.fuxngvv.ft1hn21.f1mwwx2u.fecsdlb.f1ukrpxl.fr80ssc.f1s2uweq.f9ql6rf.f19n0e5.f1pdflbu.f1q5o8ev.f11589ue.f1p3nwhy.f1c21dwh.___1azc6nq.fai-bebop.NGlLX2o4.r1f29ykk.fui-Button
 copilot.com##.VDFTdnAy.c0hPck12
 copilot.com##div.WHEyR3B5 > div
+copilot.com###copilot-message-_r_1fs_ > div > div > .fly5x3f.f1mnxvew.f3bhgqh.f122n59.f1vx9l62.f22iagw.___1vve6yh > .fbc6vix.fly5x3f.f1869bpl.f1vx9l62.f22iagw.___j4vmuw0 > div > div > div > div:nth-of-type(2)
 
 BAIDU ERNIE AI
 ernie.baidu.com##.footer--bottomInputStyle__lrrzRTld.footer__PPSho3NC.footer__du6PsobB
