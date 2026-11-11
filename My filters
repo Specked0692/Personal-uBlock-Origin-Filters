@@ -322,6 +322,7 @@ caravanmagazine.in##div.spacer.svelte-1v05g1g.block_holder:nth-of-type(13)
 THE PRINT
 theprint.in##.tdi_77.vc_raw_html.td_block_wrap.wpb_wrapper
 theprint.in##.tvc_main_banner
+theprint.in##.tdi_78.vc_raw_html.td_block_wrap.wpb_wrapper
 
 OUTLOOK INDIA
 www.outlookindia.com##.ads-indicator
@@ -525,6 +526,8 @@ chatgpt.com##div:nth-of-type(1) > div > button.scroll-mt-\[var\(--mention-list-s
 chatgpt.com##div:nth-of-type(1) > div > button.scroll-mt-\[var\(--mention-list-sticky-header-height\,0px\)\].menu-row-opacity.\[contain-intrinsic-block-size\:auto_1lh\].\[content-visibility\:auto\].text-sm.p-\[var\(--suggestion-menu-item-padding\,var\(--app-menu-item-padding\,var\(--padding-row-y\)_var\(--padding-row-x\)\)\)\].rounded-\[var\(--suggestion-menu-item-radius\,var\(--radius-xl\)\)\].min-h-\[var\(--app-menu-item-height\,0px\)\].text-start.overflow-hidden.items-center.shrink-0.w-full.flex.cursor-interaction.focus\:bg-secondary-ghost-hover.outline-hidden.text-default:nth-of-type(5)
 chatgpt.com##button.scroll-mt-\[var\(--mention-list-sticky-header-height\,0px\)\].menu-row-opacity.\[contain-intrinsic-block-size\:auto_1lh\].\[content-visibility\:auto\].text-sm.p-\[var\(--suggestion-menu-item-padding\,var\(--app-menu-item-padding\,var\(--padding-row-y\)_var\(--padding-row-x\)\)\)\].rounded-\[var\(--suggestion-menu-item-radius\,var\(--radius-xl\)\)\].min-h-\[var\(--app-menu-item-height\,0px\)\].text-start.overflow-hidden.items-center.shrink-0.w-full.flex.cursor-interaction.focus\:bg-secondary-ghost-hover.outline-hidden.text-default:nth-of-type(4)
 chatgpt.com##.mt-6
+chatgpt.com##div:nth-of-type(1) > div > button.menu-row-opacity.\[contain-intrinsic-block-size\:auto_1lh\].\[content-visibility\:auto\].text-sm.p-\[var\(--suggestion-menu-item-padding\,var\(--app-menu-item-padding\,var\(--padding-row-y\)_var\(--padding-row-x\)\)\)\].rounded-\[var\(--suggestion-menu-item-radius\,var\(--radius-xl\)\)\].min-h-\[var\(--app-menu-item-height\,0px\)\].text-start.overflow-hidden.items-center.shrink-0.w-full.flex.cursor-interaction.focus\:bg-secondary-ghost-hover.outline-hidden.text-default:nth-of-type(5)
+chatgpt.com##button.menu-row-opacity.\[contain-intrinsic-block-size\:auto_1lh\].\[content-visibility\:auto\].text-sm.p-\[var\(--suggestion-menu-item-padding\,var\(--app-menu-item-padding\,var\(--padding-row-y\)_var\(--padding-row-x\)\)\)\].rounded-\[var\(--suggestion-menu-item-radius\,var\(--radius-xl\)\)\].min-h-\[var\(--app-menu-item-height\,0px\)\].text-start.overflow-hidden.items-center.shrink-0.w-full.flex.cursor-interaction.focus\:bg-secondary-ghost-hover.outline-hidden.text-default:nth-of-type(4)
 
 DEEPSEEK
 chat.deepseek.com##.ds-basic-button--outlined.ds-basic-button.ds-atom-button
