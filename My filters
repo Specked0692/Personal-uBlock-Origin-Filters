@@ -13,6 +13,7 @@ m.youtube.com##.ytAttributedStringWhiteSpacePreWrap.chatInputViewModelChatDiscla
 !--------GOOGLE
 www.google.com##div.OS7YA:nth-of-type(4)
 www.google.com###tsuid_0TDsaqrrEqqTvr0PkfCw6Qg_38 > div
+www.google.com##div:nth-of-type(38)
 
 !--------GMAIL
 mail.google.com##.s1rbBe
