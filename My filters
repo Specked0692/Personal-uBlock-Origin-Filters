@@ -516,6 +516,7 @@ OPENAI/CHATGPT
 Fix floating Search Bar by targeting the input placeholder in CHATGPT 
 chatgpt.com##div:has(input[placeholder="Search GPTs"]):style(position: relative !important; top: auto !important; transform: none !important; z-index: 0 !important;)
 -------------------------------------------
+chatgpt.com##.grid.mt-auto.z-20
 
 DEEPSEEK
 chat.deepseek.com##.ds-basic-button--outlined.ds-basic-button.ds-atom-button
